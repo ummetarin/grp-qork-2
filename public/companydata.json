@@ -1,6 +1,6 @@
-{
-    "companies": [
+      [
       {
+        "id": 1,
         "comname": "GreenBotanicals",
         "comimage": "https://i.ibb.co/hZRtRtW/Web-150-DPI-20190927-10th-Floor-Conference-Room-2-v1-1120x630.jpg",
         "cominteraction": [
@@ -25,6 +25,7 @@
         ]
       },
       {
+        "id": 2,
         "comname": "NatureWellness",
         "comimage": "https://i.ibb.co/PWy108s/shutterstock-1100733734.jpg",
         "cominteraction": [
@@ -49,6 +50,7 @@
         ]
       },
       {
+        "id": 3,
         "comname": "OxygenPlus",
         "comimage": "https://i.ibb.co/LpvXBhs/stockimagejpeg-1200xx5337-3002-0-278.jpg",
         "cominteraction": [
@@ -73,6 +75,7 @@
         ]
       },
       {
+        "id": 4,
         "comname": "TechHealth",
         "comimage": "https://i.ibb.co/YN94SW3/Oktra-Header-Image-i-Stock-1434119140.jpg",
         "cominteraction": [
@@ -97,6 +100,7 @@
         ]
       },
       {
+        "id": 5,
         "comname": "InhalerTech",
         "comimage": "https://i.ibb.co/HzF9wYk/20180826122816-shutterstock-572805328.jpg",
         "cominteraction": [
@@ -121,5 +125,5 @@
         ]
       }
     ]
-  }
+  
   
